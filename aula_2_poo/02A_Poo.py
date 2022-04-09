@@ -6,7 +6,7 @@ class Cachorro:
     
     nome = "Maylow"
     idade = 1 * 7
-    reca = "Beagle"
+    raca = "Beagle"
     porte = "P"
     
     def __str__ ():

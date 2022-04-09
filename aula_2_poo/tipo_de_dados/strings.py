@@ -26,4 +26,4 @@ import string
 nome = input ("Digite seu nome: ")
 idade= input ("Digite sua idade: ")
 
-print (f"Olá, {nome.title()}. voce tem: {idade} anos de idaderen")
+print (f"Olá, {nome.title()}. voce tem {idade} anos de idaderen")
